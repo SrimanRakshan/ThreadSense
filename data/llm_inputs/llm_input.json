@@ -1,0 +1,759 @@
+{
+  "post_title": "Reddit Thread Summarization Dataset",
+  "comments": [
+    {
+      "author": "Better-Presence6654",
+      "text": "People asking on Reddit how to not look like a serial killer.",
+      "keywords": [
+        "serial killer",
+        "like serial",
+        "killer",
+        "people asking",
+        "asking reddit",
+        "reddit look",
+        "serial",
+        "look like",
+        "reddit",
+        "asking"
+      ],
+      "score": 4050,
+      "depth": 0,
+      "parent_id": null
+    },
+    {
+      "author": "OnlineTravesty",
+      "text": "Chances are low that two serial killers are in this thread\n\nEdit: Spelling",
+      "keywords": [
+        "serial killers",
+        "killers thread",
+        "chances low",
+        "killers",
+        "chances",
+        "serial",
+        "low serial",
+        "thread edit",
+        "thread",
+        "low"
+      ],
+      "score": 591,
+      "depth": 1,
+      "parent_id": "Better-Presence6654"
+    },
+    {
+      "author": "AutoignitingDumpster",
+      "text": "Low, but never zero....",
+      "keywords": [
+        "low zero",
+        "low",
+        "zero"
+      ],
+      "score": 211,
+      "depth": 2,
+      "parent_id": "OnlineTravesty"
+    },
+    {
+      "author": "Cranberry_Surprise99",
+      "text": "One.",
+      "keywords": [],
+      "score": 2,
+      "depth": 3,
+      "parent_id": "AutoignitingDumpster"
+    },
+    {
+      "author": "AaronS1997",
+      "text": "Is this guys admitting to being a serial killer or am I just high af rn?",
+      "keywords": [
+        "serial killer",
+        "admitting serial",
+        "killer",
+        "killer just",
+        "high af",
+        "just high",
+        "high",
+        "guys admitting",
+        "serial",
+        "admitting"
+      ],
+      "score": 2,
+      "depth": 4,
+      "parent_id": "Cranberry_Surprise99"
+    },
+    {
+      "author": "Stardustger",
+      "text": "He can admit to everything he wants if no witnesses survive.",
+      "keywords": [
+        "witnesses survive",
+        "wants witnesses",
+        "witnesses",
+        "survive",
+        "admit wants",
+        "admit",
+        "wants"
+      ],
+      "score": 1,
+      "depth": 5,
+      "parent_id": "AaronS1997"
+    },
+    {
+      "author": "Cranberry_Surprise99",
+      "text": "It's a free country man, and I plead the fifth.",
+      "keywords": [
+        "plead fifth",
+        "plead",
+        "man plead",
+        "free country",
+        "country man",
+        "fifth",
+        "country",
+        "man",
+        "free"
+      ],
+      "score": 1,
+      "depth": 5,
+      "parent_id": "AaronS1997"
+    },
+    {
+      "author": "DigNitty",
+      "text": "Personally, I became a serial killer out of fear of encountering a serial killer. \n\nYou just can never know. But the chances of there being two serial killers in a coffee shop is non-zero. Which is why I became one myself.",
+      "keywords": [
+        "serial killers",
+        "serial killer",
+        "killer fear",
+        "fear encountering",
+        "encountering serial",
+        "chances serial",
+        "fear",
+        "killers coffee",
+        "killer",
+        "encountering"
+      ],
+      "score": 3,
+      "depth": 3,
+      "parent_id": "AutoignitingDumpster"
+    },
+    {
+      "author": "thebigpink",
+      "text": "300 comments gotta be more then that",
+      "keywords": [
+        "300 comments",
+        "comments gotta",
+        "comments",
+        "300",
+        "gotta"
+      ],
+      "score": 57,
+      "depth": 2,
+      "parent_id": "OnlineTravesty"
+    },
+    {
+      "author": "Few-Frosting-4213",
+      "text": "That must a scary place you live in if you expect multiple serial killers in a group of 300 people.",
+      "keywords": [
+        "scary place",
+        "serial killers",
+        "300 people",
+        "killers",
+        "killers group",
+        "scary",
+        "place live",
+        "300",
+        "place",
+        "expect multiple"
+      ],
+      "score": 21,
+      "depth": 3,
+      "parent_id": "thebigpink"
+    },
+    {
+      "author": "thebigpink",
+      "text": "Well I live on the internet so it is kinda scary",
+      "keywords": [
+        "kinda scary",
+        "scary",
+        "internet kinda",
+        "live internet",
+        "internet",
+        "kinda",
+        "live"
+      ],
+      "score": 48,
+      "depth": 4,
+      "parent_id": "Few-Frosting-4213"
+    },
+    {
+      "author": "jimbojangles1987",
+      "text": "How'd you get there? I've been trying to enter the matrix since 1999",
+      "keywords": [
+        "matrix 1999",
+        "enter matrix",
+        "matrix",
+        "1999",
+        "enter",
+        "trying enter",
+        "ve trying",
+        "trying",
+        "ve"
+      ],
+      "score": 13,
+      "depth": 5,
+      "parent_id": "thebigpink"
+    },
+    {
+      "author": "OnlineTravesty",
+      "text": "You don't choose the matrix. The matrix chooses you.",
+      "keywords": [
+        "matrix chooses",
+        "choose matrix",
+        "matrix",
+        "matrix matrix",
+        "chooses",
+        "don choose",
+        "choose",
+        "don"
+      ],
+      "score": 17,
+      "depth": 6,
+      "parent_id": "jimbojangles1987"
+    },
+    {
+      "author": "jimbojangles1987",
+      "text": "But I've been scouring the internet for Laurence Fishburne non-stop. What am I doing wrong?",
+      "keywords": [
+        "laurence fishburne",
+        "internet laurence",
+        "laurence",
+        "fishburne",
+        "fishburne non",
+        "non stop",
+        "scouring internet",
+        "doing wrong",
+        "stop doing",
+        "internet"
+      ],
+      "score": 2,
+      "depth": 7,
+      "parent_id": "OnlineTravesty"
+    },
+    {
+      "author": "OnlineTravesty",
+      "text": "You have to go to the sex night club first. Everyone knows that.",
+      "keywords": [
+        "sex night",
+        "night club",
+        "club",
+        "club knows",
+        "sex",
+        "night",
+        "knows"
+      ],
+      "score": 2,
+      "depth": 8,
+      "parent_id": "jimbojangles1987"
+    },
+    {
+      "author": "CedarWolf",
+      "text": "And then you have to follow the white rabbit, which will be conveniently tattooed onto a stranger's shoulder and then never mentioned ever again.",
+      "keywords": [
+        "white rabbit",
+        "rabbit conveniently",
+        "rabbit",
+        "follow white",
+        "tattooed stranger",
+        "conveniently tattooed",
+        "stranger shoulder",
+        "tattooed",
+        "shoulder",
+        "white"
+      ],
+      "score": 1,
+      "depth": 9,
+      "parent_id": "OnlineTravesty"
+    },
+    {
+      "author": "Tacos_always_corny",
+      "text": "1 of 10 people are psychopaths.",
+      "keywords": [
+        "people psychopaths",
+        "psychopaths",
+        "10 people",
+        "10",
+        "people"
+      ],
+      "score": 1,
+      "depth": 4,
+      "parent_id": "Few-Frosting-4213"
+    },
+    {
+      "author": "Beneficial_Gur_6012",
+      "text": "Than",
+      "keywords": [],
+      "score": 2,
+      "depth": 3,
+      "parent_id": "thebigpink"
+    },
+    {
+      "author": "Moo-Mungus",
+      "text": "\\*200",
+      "keywords": [
+        "200"
+      ],
+      "score": 1,
+      "depth": 3,
+      "parent_id": "thebigpink"
+    },
+    {
+      "author": "ImHufflePuff_Crap_ok",
+      "text": "276**",
+      "keywords": [
+        "276"
+      ],
+      "score": 1,
+      "depth": 4,
+      "parent_id": "Moo-Mungus"
+    },
+    {
+      "author": "WiiDragon",
+      "text": "Nah we past 300",
+      "keywords": [
+        "past 300",
+        "300",
+        "nah past",
+        "past",
+        "nah"
+      ],
+      "score": 1,
+      "depth": 5,
+      "parent_id": "ImHufflePuff_Crap_ok"
+    },
+    {
+      "author": "ImHufflePuff_Crap_ok",
+      "text": "Ahh, wtf",
+      "keywords": [
+        "ahh wtf",
+        "wtf",
+        "ahh"
+      ],
+      "score": 2,
+      "depth": 6,
+      "parent_id": "WiiDragon"
+    },
+    {
+      "author": "Imfromsite",
+      "text": "Everybody is a cereal killer except you.",
+      "keywords": [
+        "cereal killer",
+        "everybody cereal",
+        "cereal",
+        "killer",
+        "everybody"
+      ],
+      "score": 1,
+      "depth": 3,
+      "parent_id": "thebigpink"
+    },
+    {
+      "author": "rasnate",
+      "text": "Perfect, no one is paying attention to me then",
+      "keywords": [
+        "paying attention",
+        "attention",
+        "perfect",
+        "perfect paying",
+        "paying"
+      ],
+      "score": 16,
+      "depth": 2,
+      "parent_id": "OnlineTravesty"
+    },
+    {
+      "author": "Neither-Possible-429",
+      "text": "Me neither, so how exactly do we NOT look like we eat back to back bowls of fruit loops for dinner sometimes?",
+      "keywords": [
+        "fruit loops",
+        "loops dinner",
+        "bowls fruit",
+        "eat bowls",
+        "like eat",
+        "fruit",
+        "eat",
+        "bowls",
+        "dinner",
+        "loops"
+      ],
+      "score": 4,
+      "depth": 3,
+      "parent_id": "rasnate"
+    },
+    {
+      "author": "NSA_Chatbot",
+      "text": "    > wrong",
+      "keywords": [
+        "wrong"
+      ],
+      "score": 1,
+      "depth": 3,
+      "parent_id": "rasnate"
+    },
+    {
+      "author": "Evil-Bosse",
+      "text": "[ Removed by Reddit ]",
+      "keywords": [
+        "removed reddit",
+        "removed",
+        "reddit"
+      ],
+      "score": 1,
+      "depth": 3,
+      "parent_id": "rasnate"
+    },
+    {
+      "author": "SomeDumbPenguin",
+      "text": "Low that *only* two are in this thread",
+      "keywords": [
+        "low thread",
+        "low",
+        "thread"
+      ],
+      "score": 3,
+      "depth": 2,
+      "parent_id": "OnlineTravesty"
+    },
+    {
+      "author": "donebeenread",
+      "text": "How did you know I was… oh… well. It’s getting pretty serial-killy in here.",
+      "keywords": [
+        "serial killy",
+        "killy",
+        "pretty serial",
+        "serial",
+        "did know",
+        "know oh",
+        "oh",
+        "oh getting",
+        "know",
+        "pretty"
+      ],
+      "score": 2,
+      "depth": 2,
+      "parent_id": "OnlineTravesty"
+    },
+    {
+      "author": "OnlineTravesty",
+      "text": "3+. Sounds like you only got 2.",
+      "keywords": [
+        "got",
+        "sounds",
+        "sounds like",
+        "like got",
+        "like"
+      ],
+      "score": 1,
+      "depth": 3,
+      "parent_id": "donebeenread"
+    },
+    {
+      "author": "Firm_Lawfulness8473",
+      "text": "Why did you have to announce that you edited your spelling mistake? It will show \"edited\" next to your username. But hey, I'm just wondering why you did this",
+      "keywords": [
+        "spelling mistake",
+        "announce edited",
+        "edited spelling",
+        "mistake edited",
+        "edited username",
+        "spelling",
+        "announce",
+        "did announce",
+        "edited",
+        "mistake"
+      ],
+      "score": 1,
+      "depth": 2,
+      "parent_id": "OnlineTravesty"
+    },
+    {
+      "author": "OnlineTravesty",
+      "text": "Transparency. So no one thinks I changed my comment completely.",
+      "keywords": [
+        "transparency thinks",
+        "transparency",
+        "changed comment",
+        "comment",
+        "comment completely",
+        "thinks changed",
+        "changed",
+        "completely",
+        "thinks"
+      ],
+      "score": 3,
+      "depth": 3,
+      "parent_id": "Firm_Lawfulness8473"
+    },
+    {
+      "author": "Firm_Lawfulness8473",
+      "text": "Ahh, I am always wondering why people do this. Thank you for telling me",
+      "keywords": [
+        "people thank",
+        "ahh wondering",
+        "wondering people",
+        "wondering",
+        "thank telling",
+        "people",
+        "ahh",
+        "telling",
+        "thank"
+      ],
+      "score": 2,
+      "depth": 4,
+      "parent_id": "OnlineTravesty"
+    },
+    {
+      "author": "bluefancypants",
+      "text": "Well if they can't get off Reddit then they have less killing time",
+      "keywords": [
+        "killing time",
+        "reddit killing",
+        "reddit",
+        "killing",
+        "time"
+      ],
+      "score": 1,
+      "depth": 2,
+      "parent_id": "OnlineTravesty"
+    },
+    {
+      "author": "sicilian504",
+      "text": "But what about 3 or more? Considering how this year is going, I wouldn't rule that out.",
+      "keywords": [
+        "considering year",
+        "wouldn rule",
+        "year going",
+        "going wouldn",
+        "considering",
+        "rule",
+        "wouldn",
+        "year",
+        "going"
+      ],
+      "score": 1,
+      "depth": 2,
+      "parent_id": "OnlineTravesty"
+    },
+    {
+      "author": "OnlineTravesty",
+      "text": "No. None of my friends are with me.",
+      "keywords": [
+        "friends"
+      ],
+      "score": 1,
+      "depth": 3,
+      "parent_id": "sicilian504"
+    },
+    {
+      "author": "HyperionSunset",
+      "text": "Well, you're here: where's the other one?",
+      "keywords": [],
+      "score": 1,
+      "depth": 2,
+      "parent_id": "OnlineTravesty"
+    },
+    {
+      "author": "phantumjosh",
+      "text": "Takes one to know one.",
+      "keywords": [
+        "takes know",
+        "takes",
+        "know"
+      ],
+      "score": 1,
+      "depth": 2,
+      "parent_id": "OnlineTravesty"
+    },
+    {
+      "author": "betterthanamaster",
+      "text": "I can’t be the only one here, right?\n\nOh crap!",
+      "keywords": [
+        "right oh",
+        "oh crap",
+        "right",
+        "crap",
+        "oh"
+      ],
+      "score": 1,
+      "depth": 2,
+      "parent_id": "OnlineTravesty"
+    },
+    {
+      "author": "howardhus",
+      "text": "well they could be \"Killers in parallel\" according to my electrical engineering prof.",
+      "keywords": [
+        "killers parallel",
+        "parallel",
+        "parallel according",
+        "electrical engineering",
+        "electrical",
+        "according electrical",
+        "engineering",
+        "killers",
+        "engineering prof",
+        "prof"
+      ],
+      "score": 1,
+      "depth": 2,
+      "parent_id": "OnlineTravesty"
+    },
+    {
+      "author": "Welshgirlie2",
+      "text": "Now now, someone could just need the spark of inspiration to become the next Gacy. Just because they're not a serial killer right now doesn't mean they won't become one later!",
+      "keywords": [
+        "inspiration gacy",
+        "serial killer",
+        "gacy just",
+        "gacy",
+        "killer right",
+        "spark inspiration",
+        "inspiration",
+        "killer",
+        "just serial",
+        "serial"
+      ],
+      "score": 1,
+      "depth": 2,
+      "parent_id": "OnlineTravesty"
+    },
+    {
+      "author": "ryanegauthier",
+      "text": "10 ways to dispose of a dead body if you really need to.",
+      "keywords": [
+        "dispose dead",
+        "ways dispose",
+        "dispose",
+        "10 ways",
+        "dead body",
+        "dead",
+        "body",
+        "10",
+        "ways",
+        "body really"
+      ],
+      "score": 1,
+      "depth": 1,
+      "parent_id": "Better-Presence6654"
+    },
+    {
+      "author": "TheGrolar",
+      "text": "The actual serial killer will be all like \"Nah that's stupid\" because human tricky",
+      "keywords": [
+        "serial killer",
+        "human tricky",
+        "stupid human",
+        "killer like",
+        "killer",
+        "actual serial",
+        "nah stupid",
+        "serial",
+        "tricky",
+        "human"
+      ],
+      "score": 1,
+      "depth": 1,
+      "parent_id": "Better-Presence6654"
+    },
+    {
+      "author": "SageandStrong33",
+      "text": "That’s a good one! To add to this, how about driving slowly and lurking around a neighborhood for extended period of time.",
+      "keywords": [
+        "add driving",
+        "driving",
+        "driving slowly",
+        "lurking neighborhood",
+        "neighborhood",
+        "neighborhood extended",
+        "slowly lurking",
+        "lurking",
+        "slowly",
+        "good"
+      ],
+      "score": 1,
+      "depth": 1,
+      "parent_id": "Better-Presence6654"
+    },
+    {
+      "author": "Imfromsite",
+      "text": "Nice try, FBI",
+      "keywords": [
+        "fbi",
+        "try fbi",
+        "nice try",
+        "try",
+        "nice"
+      ],
+      "score": 1,
+      "depth": 1,
+      "parent_id": "Better-Presence6654"
+    },
+    {
+      "author": "chelsanchez",
+      "text": "what's wrong with that?",
+      "keywords": [
+        "wrong"
+      ],
+      "score": 1,
+      "depth": 1,
+      "parent_id": "Better-Presence6654"
+    },
+    {
+      "author": "IndependentSector786",
+      "text": "Para mí, serían las personas mayores de Askreddit las que responden sarcásticamente creyendo que hicieron un comentario épico cuando simplemente son vergonzosos.\n\nedit:I really don't understand why they get so upset, it's almost impossible to see people on ask reddit who aren't sarcastic, it's almost the same as trolling, both want attention.",
+      "keywords": [
+        "sarcásticamente creyendo",
+        "responden sarcásticamente",
+        "sarcásticamente",
+        "épico cuando",
+        "creyendo que",
+        "comentario épico",
+        "que responden",
+        "las que",
+        "son vergonzosos",
+        "las personas"
+      ],
+      "score": 0,
+      "depth": 1,
+      "parent_id": "Better-Presence6654"
+    },
+    {
+      "author": "sensiblefun1234",
+      "text": "Isn't that exactly what you just did???",
+      "keywords": [
+        "exactly just",
+        "isn exactly",
+        "just",
+        "just did",
+        "exactly",
+        "isn",
+        "did"
+      ],
+      "score": 2,
+      "depth": 2,
+      "parent_id": "IndependentSector786"
+    },
+    {
+      "author": "IndependentSector786",
+      "text": "In the main comment, he did a sarcastic response to the question. I was never sarcastic, I just said that many people here are like on Quora, they always leave sarcastic responses.",
+      "keywords": [
+        "leave sarcastic",
+        "sarcastic response",
+        "sarcastic responses",
+        "did sarcastic",
+        "question sarcastic",
+        "sarcastic",
+        "sarcastic just",
+        "response question",
+        "responses",
+        "response"
+      ],
+      "score": 0,
+      "depth": 3,
+      "parent_id": "sensiblefun1234"
+    }
+  ]
+}
