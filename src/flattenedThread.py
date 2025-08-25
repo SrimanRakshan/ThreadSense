@@ -1,6 +1,6 @@
 import json
 
-with open("/home/Zoro/Documents/Projects/ThreadSense/data/top_comment_thread.json", "r", encoding="utf-8") as i:
+with open("/home/Zoro/Documents/Projects/ThreadSense/data/threads/top_comment_thread.json", "r", encoding="utf-8") as i:
     data = json.load(i)
 
 flattenedComments = []
