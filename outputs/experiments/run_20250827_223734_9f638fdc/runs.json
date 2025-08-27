@@ -1,0 +1,46 @@
+[
+  {
+    "post_title": "Reddit Thread Summarization Dataset",
+    "variant": "zero_shot",
+    "local_summaries": [
+      {
+        "root_comment": "People asking on Reddit how to not look like a serial killer.",
+        "summary": "AskReddit users discuss how to avoid being mistaken for a serial killer. - AskReddit users share their tips on avoiding being mistaken for a serial killer, including driving slowly and lurking around neighborhoods."
+      }
+    ],
+    "global_summary": "AskReddit users share their tips on avoiding being mistaken for a serial killer, emphasizing the importance of driving slowly and avoiding lurking in neighborhoods to maintain safety."
+  },
+  {
+    "post_title": "Reddit Thread Summarization Dataset",
+    "variant": "few_shot",
+    "local_summaries": [
+      {
+        "root_comment": "People asking on Reddit how to not look like a serial killer.",
+        "summary": "\"People debate the value of a feature in a thread, acknowledging both its strengths and weaknesses. They share their experiences and provide advice, while also considering the potential impact on their workflows and budgets.\""
+      }
+    ],
+    "global_summary": "\"Threads debate the value of a feature, with users sharing their experiences and providing advice. They consider the feature's strengths and weaknesses, as well as its impact on workflows and budgets. The threads balance quality concerns with expectations, resulting in a clearer understanding of the feature's worth.\""
+  },
+  {
+    "post_title": "Reddit Thread Summarization Dataset",
+    "variant": "chain_of_thought",
+    "local_summaries": [
+      {
+        "root_comment": "People asking on Reddit how to not look like a serial killer.",
+        "summary": "Root Comment: People asking on Reddit how to not look like a serial killer. Replies:\n- Chances are low that two serial killers are in this thread\n\nEdit: Spelling\n- 10 ways to dispose of a dead body if you really need to. - The actual serial killer will be all like \"Nah that's stupid\" because human tricky\n- That’s a good one! To add to this, how about driving slowly and lurking around a neighborhood for extended period of time. - Nice try, FBI\n- what's wrong with that?"
+      }
+    ],
+    "global_summary": "Branch Summaries:\n- Root Comment: People asking on Reddit how to not look like a serial killer. Replies:\n- Chances are low that two serial killers are in this thread\n\nEdit: Spelling\n- 10 ways to dispose of a dead body if you really need to. - The actual serial killer will be all like \"Nah that's stupid\" because human tricky\n- That’s a good one! To add to this, how about driving slowly and lurking around a neighborhood for extended period of time. - Nice try, FBI\n- what's wrong with that?"
+  },
+  {
+    "post_title": "Reddit Thread Summarization Dataset",
+    "variant": "role_play",
+    "local_summaries": [
+      {
+        "root_comment": "People asking on Reddit how to not look like a serial killer.",
+        "summary": "People have mixed opinions on how to avoid looking like a serial killer. Some suggest dressing up as a clown, while others recommend avoiding wearing a fedora. The consensus seems to be that the best way to avoid being mistaken for a serial killer is to avoid wearing a fedora. Disagreements: Some users believe that wearing a fedora is a good way to blend in with the crowd, while others disagree. Additionally, some users think that avoiding wearing a fedora is a good idea, while others disagree."
+      }
+    ],
+    "global_summary": "To avoid being mistaken for a serial killer, people generally agree that wearing a fedora is not the best idea. However, there are differing opinions on whether or not dressing up as a clown is an effective method of blending in with the crowd."
+  }
+]
